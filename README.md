@@ -93,11 +93,8 @@
 - [netattack2](https://github.com/chrizator/netattack2) - An advanced network scan and attack script based on GUI. 2nd version of no-GUI netattack. . :star:256
 - [AUXILE](https://github.com/CiKu370/AUXILE) - Auxile Framework. :star:11
 - [hash-generator](https://github.com/CiKu370/hash-generator) - beautiful hash generator. :star:0
-- [hash-generator](https://github.com/CiKu370/hash-generator) - beautiful hash generator. :star:0
-- [hasher](https://github.com/CiKu370/hasher) - Hash cracker with auto detect hash. :star:20
 - [hasher](https://github.com/CiKu370/hasher) - Hash cracker with auto detect hash. :star:20
 - [ko-dork](https://github.com/CiKu370/ko-dork) - A simple vuln web scanner. :star:14
-- [OSIF](https://github.com/CiKu370/OSIF) - Open Source Information Facebook. :star:290
 - [OSIF](https://github.com/CiKu370/OSIF) - Open Source Information Facebook. :star:290
 - [WifiBruteCrack](https://github.com/cinquemb/WifiBruteCrack) - Program to attempt to brute force all wifi networks in range of a device, and return a possible set of networks to connect to and the password,. :star:18
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.. :star:6461
@@ -269,7 +266,6 @@
 - [OWASP-WebScarab](https://github.com/OWASP/OWASP-WebScarab) - OWASP WebScarab. :star:464
 - [QRLJacking](https://github.com/OWASP/QRLJacking) -  QRLJacking or Quick Response Code Login Jacking is a simple-but-nasty attack vector affecting all the applications that relays on “Login with QR code” feature as a secure way to login into accounts which aims for hijacking users session by attackers.. :star:548
 - [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) - Framework for Rogue Wi-Fi Access Point Attack. :star:2740
-- [Spammer-Grab](https://github.com/p4kl0nc4t/Spammer-Grab) - A brand new, awakened version of the old Spammer-Grab.. :star:24
 - [Spammer-Grab](https://github.com/p4kl0nc4t/Spammer-Grab) - A brand new, awakened version of the old Spammer-Grab.. :star:24
 - [zirikatu](https://github.com/pasahitz/zirikatu) - Fud Payload generator script. :star:134
 - [eternal_scanner](https://github.com/peterpt/eternal_scanner) - An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance). :star:245
