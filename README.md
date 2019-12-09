@@ -1,4 +1,3 @@
-# Information comes from [may215/awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking)
 <div align="center">
 	<img width="500" height="350" src="media/awesome_termux_hacking.png" alt="Awesome Termux Hacking">
 	<br>
@@ -22,7 +21,7 @@
 
 ## About this list
 
-<p align="center">
+<p align="left">
 	Hacking made easy with termux android app, nowadays there are so many Pentesters, Security Researchers And Hackers are using termux android app to perform some pentesting stuff, I am one of them :)
 </p>
 
@@ -31,7 +30,7 @@
 </p>
 
 ## Termux
-<p align="center">
+<p align="left">
     Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. 
     A minimal base system is installed automatically - additional packages are available using the APT package manager.
 </p>
