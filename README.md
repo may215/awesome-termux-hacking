@@ -7,7 +7,6 @@
 </div>
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/meir_shamay">Twitter</a>&nbsp;&nbsp;&nbsp;
@@ -24,7 +23,7 @@
 ## About this list
 
 <p align="center">
-	<sub>Hacking made easy with termux android app, nowadays there are so many Pentesters, Security Researchers And Hackers are using termux android app to perform some pentesting stuff, I am one of them :)</sub>
+	Hacking made easy with termux android app, nowadays there are so many Pentesters, Security Researchers And Hackers are using termux android app to perform some pentesting stuff, I am one of them :)
 </p>
 
 <p align="center">
@@ -33,7 +32,8 @@
 
 ## Termux
 <p align="center">
-    Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.
+    Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. 
+    A minimal base system is installed automatically - additional packages are available using the APT package manager.
 </p>
 <br>
 
