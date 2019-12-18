@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [ReconCobra](https://github.com/haroonawanofficial/ReconCobra) - Complete Automated pentest framework for Information Gathering. :star:53
 - [HttpLiveProxyGrabber](https://github.com/04x/HttpLiveProxyGrabber) - Best Proxy Grabber Tool!. :star:5
 - [instagramCracker](https://github.com/04x/instagramCracker) - Full Speed Instagram Cracker. :star:45
 - [ToolB0x](https://github.com/04x/ToolB0x) - Hacking Tools  :zap:. :star:9
