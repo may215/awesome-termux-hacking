@@ -39,6 +39,7 @@
 
 ## Tools
 
+- [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time. :star:822
 - [ReconCobra](https://github.com/haroonawanofficial/ReconCobra) - Complete Automated pentest framework for Information Gathering. :star:53
 - [HttpLiveProxyGrabber](https://github.com/04x/HttpLiveProxyGrabber) - Best Proxy Grabber Tool!. :star:5
 - [instagramCracker](https://github.com/04x/instagramCracker) - Full Speed Instagram Cracker. :star:45
