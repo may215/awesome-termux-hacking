@@ -40,6 +40,7 @@
 ## Tools
 
 
+- [Tishna](https://github.com/haroonawanofficial/Tishna-Automated-Web-Application-Hacker) - Complete Automated pentest framework for Servers, Application Layer to Web Security. :star:44
 - [seeker](https://github.com/thewhiteh4t/seeker) - Accurately Locate Smartphones using Social Engineering. :star:661
 - [ANDRAX](https://andrax.thecrackertechnology.com/download) - ANDRAX is a Penetration Testing platform developed specifically for Android smartphones, ANDRAX has the ability to run natively on Android so it behaves like a common Linux distribution, But more powerful than a common distribution! :star:222
 - [findomain](https://github.com/Edu4rdSHL/findomain) - The fastest and cross-platform subdomain enumerator, don't waste your time. :star:822
